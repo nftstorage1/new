@@ -1,0 +1,50 @@
+{
+  "name": "Bears Studio #1346",
+  "symbol": "BEARS",
+  "description": "Uniting artists and developers, our NFT collection is dedicated to delivering the best experience for founders. Our mission is to create unique and vibrant digital assets that bring your ideas to life.",
+  "seller_fee_basis_points": 0,
+  "image": "https://nftstorage.link/ipfs/bafybeifblr4pdgr2wmo3ckdokkghqutqrwphiblmaslj6677y3kuvkbfgu/1345.png",
+  "external_url": "BEARS",
+  "edition": 1345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glasses "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold teeth "
+    },
+    {
+      "trait_type": "Cap",
+      "value": "Earring "
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "RedWhite Shirt "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://nftstorage.link/ipfs/bafybeifblr4pdgr2wmo3ckdokkghqutqrwphiblmaslj6677y3kuvkbfgu/1345.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AcUQiceFBBJtyVasd157SrDkJp2qje8ihypzi41Nma1U",
+        "share": 100
+      }
+    ]
+  }
+}
